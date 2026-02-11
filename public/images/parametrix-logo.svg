@@ -1,0 +1,19 @@
+<svg width="900" height="280" viewBox="0 0 900 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="metal" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#E5D8C9"/>
+      <stop offset="40%" stop-color="#A2A0A8"/>
+      <stop offset="100%" stop-color="#6F6767"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="280" fill="transparent"/>
+  <g transform="translate(20 16)">
+    <path d="M78 8C111 30 115 66 89 106L49 167C30 196 26 223 42 248H10C-8 218-2 183 23 150L64 95C82 70 80 41 58 22L78 8Z" fill="url(#metal)"/>
+    <path d="M108 8C75 30 71 66 97 106L137 167C156 196 160 223 144 248H176C194 218 188 183 163 150L122 95C104 70 106 41 128 22L108 8Z" fill="url(#metal)"/>
+    <circle cx="93" cy="124" r="34" stroke="#828892" stroke-width="7" fill="rgba(164,174,184,0.2)"/>
+  </g>
+  <g transform="translate(220 72)" fill="#9D8F90">
+    <text x="0" y="82" font-size="86" font-family="Inter, Arial, sans-serif" font-weight="700" letter-spacing="8">PARAMETRIX</text>
+    <text x="0" y="170" font-size="66" font-family="Inter, Arial, sans-serif" font-weight="700" letter-spacing="7">ARCHITECTURE</text>
+  </g>
+</svg>
